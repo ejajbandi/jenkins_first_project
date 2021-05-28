@@ -1,6 +1,6 @@
 pipeline {
 
-  agent { label 'myfirstproject' }
+  agent { label 'linux' }
 
   stages {
 
