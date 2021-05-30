@@ -28,7 +28,7 @@ metadata:
   name: myfirstproject
 spec:
   ports:
-  - nodePort: 40000
+  - nodePort: 32000
     port: 80
     protocol: TCP
     targetPort: 80
